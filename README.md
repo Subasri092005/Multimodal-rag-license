@@ -1,4 +1,4 @@
-# 🚗 TN License & Traffic Assistant
+#  TN License & Traffic Assistant
 
 AI-powered RAG application for Tamil Nadu driving license and traffic rules.
 
@@ -17,8 +17,7 @@ AI-powered RAG application for Tamil Nadu driving license and traffic rules.
 ## Setup
 
 ### 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/TN-License-Traffic-Assistant.git
-cd TN-License-Traffic-Assistant
+git clone https://github.com/Subasri092005/Multimodal-rag-license
 
 ### 2. Install dependencies
 pip install -r requirements.txt
@@ -26,7 +25,6 @@ pip install -r requirements.txt
 ### 3. Add API keys
 Create a .env file:
 GROQ_API_KEY=your_groq_key_here
-NEWS_API_KEY=your_newsapi_key_here
 
 ### 4. Run ingestion
 python master_ingest.py
