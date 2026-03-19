@@ -1,0 +1,104 @@
+data = """LEARNER'S LICENSE PROCEDURE IN TAMIL NADU
+
+What is a Learner's License?
+A Learner's License is a temporary license issued to a person who is learning to drive. It is mandatory to hold a Learner's License before applying for a Permanent Driving License in Tamil Nadu.
+Official Website: https://parivahan.gov.in
+Sarathi Portal: https://sarathi.parivahan.gov.in
+
+Who can apply for a Learner's License?
+Minimum age is 16 years for motorcycles without gear. Minimum age is 18 years for all other vehicles. Must be a citizen of India. Must be medically fit to drive.
+
+Documents Required for Learner's License?
+Application Form 1 and Form 2 available at RTO or online at https://parivahan.gov.in. Proof of Age such as Birth Certificate, 10th Marksheet, Passport, or Aadhaar Card. Proof of Address such as Aadhaar Card, Voter ID, Passport, or Utility Bill. Passport size photographs 2 copies. Medical Certificate in Form 1A for transport vehicles.
+Download Form 1: https://sarathi.parivahan.gov.in/sarathiservice/downloads/form1.pdf
+Download Form 2: https://sarathi.parivahan.gov.in/sarathiservice/downloads/form2.pdf
+
+Steps to Apply for Learner's License Online in Tamil Nadu?
+Step 1 Visit the official website https://sarathi.parivahan.gov.in. Step 2 Click on Driving License Related Services. Step 3 Select Tamil Nadu as your state. Step 4 Click on Apply for Learner Licence. Step 5 Fill in your personal details and upload documents. Step 6 Pay the fee online Rs 200 approximately. Step 7 Book a slot for the Learner's License test at your nearest RTO. Step 8 Appear for the online computer based test at the RTO. Step 9 If you pass your Learner's License will be issued immediately.
+Apply Online: https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+
+Steps to Apply for Learner's License Offline in Tamil Nadu?
+Step 1 Visit your nearest RTO office in Tamil Nadu. Step 2 Collect Form 1 and Form 2 from the RTO counter. Step 3 Fill the forms and attach required documents. Step 4 Submit the forms at the counter and pay the fee. Step 5 Appear for the written test at the RTO. Step 6 If you pass Learner's License will be issued the same day.
+
+Learner's License Test Details?
+The test is a computer based objective test. It contains 15 questions on traffic rules and road signs. You need to score minimum 9 out of 15 to pass. The test is available in Tamil and English.
+Practice Test: https://sarathi.parivahan.gov.in/sarathiservice/mockTest.do
+
+Fee for Learner's License in Tamil Nadu?
+Learner's License fee is Rs 200. For each additional class of vehicle Rs 50.
+Pay Fee Online: https://parivahan.gov.in/parivahan/
+
+Validity of Learner's License?
+A Learner's License is valid for 6 months from the date of issue. You must apply for Permanent License within this period.
+
+PERMANENT DRIVING LICENSE PROCEDURE IN TAMIL NADU
+
+What is a Permanent Driving License?
+A Permanent Driving License is issued after a person has held a Learner's License for at least 30 days and has passed the driving test at the RTO.
+
+Eligibility for Permanent Driving License?
+Must hold a valid Learner's License for at least 30 days. Must not have completed more than 180 days since Learner's License was issued. Must be medically fit.
+
+Documents Required for Permanent Driving License?
+Original Learner's License. Application Form 4 available at RTO or online at https://sarathi.parivahan.gov.in. Proof of Age and Address same as Learner's License. Passport size photographs 2 copies. Driving School Certificate optional but recommended.
+Download Form 4: https://sarathi.parivahan.gov.in/sarathiservice/downloads/form4.pdf
+
+Steps to Apply for Permanent Driving License Online?
+Step 1 Visit https://sarathi.parivahan.gov.in. Step 2 Click on Driving License Related Services. Step 3 Select Tamil Nadu as your state. Step 4 Click on Apply for Driving Licence. Step 5 Enter your Learner's License number and date of birth. Step 6 Fill in personal details and upload documents. Step 7 Pay the fee online Rs 400 approximately. Step 8 Book a slot for the driving test at your nearest RTO. Step 9 Appear for the driving test on the scheduled date. Step 10 If you pass your Permanent Driving License will be issued within 7 working days by post or download from https://digilocker.gov.in.
+Apply Online: https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+Download License from Digilocker: https://digilocker.gov.in
+
+Driving Test Details?
+The test is conducted at the RTO driving track. You will be tested on basic driving skills. Follow traffic signals and road signs during the test. The test lasts approximately 10 to 15 minutes. Results are announced on the same day.
+
+Fee for Permanent Driving License in Tamil Nadu?
+Driving License fee is Rs 400. Smart card fee is Rs 200. Total approximate fee is Rs 600.
+Pay Fee Online: https://parivahan.gov.in/parivahan/
+
+DRIVING LICENSE RENEWAL PROCEDURE IN TAMIL NADU
+
+When to Renew Driving License?
+A non transport driving license is valid for 20 years or until the age of 50 whichever is earlier. After 50 years of age it must be renewed every 5 years. Renewal can be done 1 year before expiry.
+
+Documents Required for Renewal?
+Original Driving License. Application Form 9 available at RTO or online at https://sarathi.parivahan.gov.in. Proof of Address. Passport size photographs. Medical Certificate Form 1A for people above 40 years. Fee payment receipt.
+Download Form 9: https://sarathi.parivahan.gov.in/sarathiservice/downloads/form9.pdf
+
+Steps to Renew Driving License Online?
+Step 1 Visit https://sarathi.parivahan.gov.in. Step 2 Click on Driving License Related Services. Step 3 Select Tamil Nadu. Step 4 Click on Apply for DL Renewal. Step 5 Enter your existing DL number and date of birth. Step 6 Verify and update your details. Step 7 Upload required documents. Step 8 Pay the renewal fee online. Step 9 Visit RTO only if medical test is required. Step 10 Updated license will be sent by post or available on https://digilocker.gov.in.
+Renew Online: https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do
+
+Renewal Fee for Driving License?
+Renewal fee is Rs 200. Late renewal penalty after expiry is Rs 1000.
+
+FREQUENTLY ASKED QUESTIONS
+
+Can I drive with a Learner's License alone?
+No. You must always be accompanied by a person holding a valid permanent driving license when driving with a Learner's License.
+
+What happens if I fail the driving test?
+You can reappear for the test after 7 days. You are allowed multiple attempts. Book test slot at https://sarathi.parivahan.gov.in.
+
+Can I apply for driving license from any RTO in Tamil Nadu?
+You must apply at the RTO under whose jurisdiction your residential address falls. Find your RTO at https://parivahan.gov.in/parivahan/
+
+How long does it take to get a permanent driving license after the test?
+It takes approximately 7 working days. You can also download it from https://digilocker.gov.in immediately after passing.
+
+Is a driving school certificate mandatory?
+No it is not mandatory but it is recommended as it improves your chances of passing the driving test.
+
+What vehicles are covered under LMV?
+LMV stands for Light Motor Vehicle and covers cars jeeps and taxis.
+
+Can I add a new vehicle class to my existing license?
+Yes. You need to apply for endorsement at your RTO with the required documents and fee. Apply at https://sarathi.parivahan.gov.in."""
+
+with open("tn_license/license_data.txt", "w", encoding="utf-8") as f:
+    f.write(data)
+
+print("✅ File created successfully!")
+
+with open("tn_license/license_data.txt", "r", encoding="utf-8") as f:
+    content = f.read()
+print(f"📊 Total characters written: {len(content)}")

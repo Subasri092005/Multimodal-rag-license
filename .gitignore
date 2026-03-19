@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# HuggingFace cache
+.cache/
+
+# ChromaDB (large vector files)
+chroma_db/
+chroma_db_license/
+chroma_db_multimodal/
+
+# Temp files
+temp_*
+
+# Miniconda
+*.egg-info/
